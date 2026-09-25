@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 \# Azure VMSS Autoscale
 
 
@@ -182,3 +183,7 @@ The Azure VM Scale Set was successfully configured with CPU-based autoscaling. T
 
 
 
+=======
+# azure-vmss-autoscale
+Azure Virtual Machine Scale Set with Autoscale Rules
+>>>>>>> 04ae87ca6ba2761fe8f387060afdb0074a7fd61d
